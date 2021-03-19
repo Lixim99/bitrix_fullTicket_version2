@@ -1,0 +1,6 @@
+<?
+$sSectionName = "AJAX";
+$arDirProperties = Array(
+
+);
+?>
